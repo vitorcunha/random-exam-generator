@@ -1,4 +1,4 @@
-# random-exame-generator
+# random-exam-generator
 Random exam generator
 
 This generator is a Java program (Shuffle.java) that reads a file with a set of questions and generates a random, LaTeX-formated subset of
